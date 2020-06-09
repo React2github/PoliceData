@@ -1,0 +1,3 @@
+This example shows how to load data from a CSV file using React hooks and visualize the result using [Victory Charts](https://formidable.com/open-source/victory/). Inspired by this [Victory example from Swizec Teller](https://codesandbox.io/s/3v3q013x36?from-embed) in [React for Data Visualization](https://reactfordataviz.com/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OacqgtI30pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+#root {
+  height: 50vh;
+  width: 40vw;
+}
+
+#root2 {
+  height: 50vh;
+  width: 40vw;
+}
