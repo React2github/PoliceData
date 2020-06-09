@@ -1,3 +1,5 @@
-This example shows how to load data from a CSV file using React hooks and visualize the result using [Victory Charts](https://formidable.com/open-source/victory/). Inspired by this [Victory example from Swizec Teller](https://codesandbox.io/s/3v3q013x36?from-embed) in [React for Data Visualization](https://reactfordataviz.com/).
+This application utilizes data loaded from a CSV file using React hooks and visualized using Victory Charts and D3. 
+The data, which was collected by The Wall Street Journal, examines the roles that race, gender, geography, income, etc. factor into likelihood of becoming a victim of police brutality and violence. Hopefully this helps in the fight for Civil rights/Equality. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OacqgtI30pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Inspired by this [Victory example from Swizec Teller](https://codesandbox.io/s/3v3q013x36?from-embed) in [React for Data Visualization](https://reactfordataviz.com/).
